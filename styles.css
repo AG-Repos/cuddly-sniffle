@@ -1,0 +1,46 @@
+.d0
+{
+  margin: 0;
+  width: 100%;
+  height: 130px;
+  background-color: #b0efeb;
+}
+body{margin: 0;}
+.d1
+{
+  margin: 0;
+  width: 15%;
+  height: 1500px;
+  background-color: red;
+}
+.d2
+{
+  margin: 0;
+  width: 70%;
+  height: 1500px;
+  background-color: white;
+  position: relative;
+  left: 15%;
+  bottom: 1500px;
+}
+.d3
+{
+  margin: 0;
+  width: 15%;
+  height: 1500px;
+  background-color: green;
+  position: relative;
+  left:85%;
+  bottom: 3000px;
+}
+/*body
+{
+  height: 1630px;
+  width: 100%;
+}*/
+h1{margin: 0;}
+.title0
+{
+  text-align: center;
+
+}
